@@ -1,6 +1,6 @@
 # Para inicializar la base de datos y levantar el servidor de Node
 
-Abrí la terminal, parate en la raíz del proyecto y poné node ./initializedb.js (o poné node y apretá el tabulador hasta que te muestre ese archivo), así se ejecuta el script que crea la base de datos e importa el JSON. Tenés que tener instalado MongoDB y que esté levantado el servidor. Después en la terminal anda a la carpeta backend y poné node ./server.js y ahí va a levantar el servidor del backend.
+Abrir la terminal y desde la raíz del proyecto ejecutar el comando node ./initializedb.js, es el script que crea la base de datos y guarda los datos del JSON de instrumentos. Hay que tener instalado MongoDB y que esté levantado el servidor. Después en la terminal, pararse en la carpeta backend y ejecutar node ./server.js, así va a levantar el servidor del backend.
 
 # React + TypeScript + Vite
 
